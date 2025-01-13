@@ -104,19 +104,19 @@ nav a:hover ,
   animation: animate-gradient 2.5s linear infinite;
 }
 
-.hero p{
-  max-width: 450px;
-  margin-top: 7px;
-  margin-bottom: 20px;
-}
-
 @keyframes animate-gradient {
   to {
     background-position: 200%;
   }
 }
 
-.Buttons{
+.hero p{
+  max-width: 450px;
+  margin-top: 7px;
+  margin-bottom: 20px;
+}
+
+.hero-icons{
   display: flex;
 }
 
